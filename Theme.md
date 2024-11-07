@@ -14,4 +14,4 @@ A little girl who lived with her parents suddenly snuck out of her house one day
 You are the local sheriff tasked with finding the girl and the search party and getting them out of the ruins so that the archaeologist can continue with studying the ruins.
 
 5.) What here is not what it appears to be?
-You are aware of the ruins unsettling nature and believe that there is something inside that no one is supposed to see and armed yourself with a shotgun, brace yourself and head inside. 
+\n You are aware of the ruins unsettling nature and believe that there is something inside that no one is supposed to see and armed yourself with a shotgun, brace yourself and head inside. 
