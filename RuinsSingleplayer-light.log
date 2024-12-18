@@ -1,0 +1,37 @@
+---- light / ericw-tools 2.0.0-alpha8-25-gd532580a ----
+LoadBSPFile: 'RuinsSingleplayer.bsp'
+BSP is version Quake BSP bsp29
+INFO: using built-in palette.
+img::ConvertTextures: WARNING: invalid size data for 
+Loading extended texinfo flags from RuinsSingleplayer.texinfo.json...
+WARNING: brush entity with mins [-1183 3665 -599] maxs [-1121 3711 -545] (func_button) has empty key/value "targetname" ""
+WARNING: brush entity with mins [-1183 3665 -599] maxs [-1121 3711 -545] (func_button) has empty key/value "health" ""
+WARNING: brush entity with mins [1969 -655 -159] maxs [1983 -385 73.666664] (func_door) has empty key/value "message" ""
+WARNING: entity at (96 -1968 -1896) (monster_wizard) has empty key/value "targetname" ""
+WARNING: entity at (128 -2304 -1896) (monster_ogre) has empty key/value "targetname" ""
+WARNING: entity at (288 240 -1496) (monster_hell_knight) has empty key/value "target" ""
+266 entities read, 92 are lights.
+
+--- Options Summary ---
+    "nocolor" was set to "1" (from command line)
+
+Embree_TraceInit: Embree version: 3.12.1
+Embree_TraceInit: 
+	68 sky faces
+	4713 solid faces
+	0 filtered faces
+	0 shadow-casting skip faces
+SetupLights: 92 initial lights
+SetupLights: 92 after surface lights
+SetupLights: 92 after jittering
+Final count: 92 lights, 0 suns in use.
+0 surface light points in use.
+lightmap size (total): 434280
+Lighting Completed.
+
+0 switchable light styles (32 max)
+Writing RuinsSingleplayer.bsp as Quake BSP bsp29
+0.192s seconds elapsed
+0 empty lightmaps
+
+

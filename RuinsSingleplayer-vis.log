@@ -1,0 +1,22 @@
+---- vis / ericw-tools 2.0.0-alpha8-25-gd532580a ----
+
+--- Options Summary ---
+    "nocolor" was set to "1" (from command line)
+
+LoadBSPFile: 'RuinsSingleplayer.bsp'
+BSP is version Quake BSP bsp29
+INFO: using built-in palette.
+   513 leafs
+   511 clusters
+  1281 portals
+Calculating Base Vis:
+Calculating Full Vis:
+Expanding clusters...
+average leafs visible: 57
+c_noclip: 0
+c_chains: 264136
+visdatasize:9748  compressed from 33345
+Writing RuinsSingleplayer.bsp as Quake BSP bsp29
+0.09s elapsed
+
+
