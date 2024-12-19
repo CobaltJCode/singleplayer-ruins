@@ -5,4 +5,8 @@ This is the finish release on the quake map. I had fun making this map and I hop
 
 This is the walkthrough video of the map along with how to find the secret areas.
 
+The image is clickable.
+
 [![Walkthrough Video](https://github.com/user-attachments/assets/056a13e7-d334-47a1-bce2-cb95af4dae5f)](https://youtu.be/voZfEr7Vwb0)
+
+
