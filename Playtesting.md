@@ -7,3 +7,14 @@ Playtest #1 December 5 2024
 
 Summary
 
+Person #1 played the imcomplete blockout map version.
+
+Results
+
+The theme wasn't clear
+
+Map was very easy
+
+Too much open space
+
+Map is overall average
